@@ -36,6 +36,6 @@ A exibição dessas legendas depende do reconhecimento do áudio. Em uma das rod
 
 ## Créditos
 
-- Curadoria e testes da tradução PT-BR por Bruno (Tsumaru89), com apoio do Codex na tradução e na implementação do mod.
+- Curadoria e testes da tradução PT-BR por Tsumaru89, com apoio do Codex na tradução e na implementação do mod.
 - Projeto base e formato do pacote de idioma. [Def Jam Recompiled](https://github.com/vyanhursky/DefJamFFNY-recomp)
 - Referência técnica para a interface e as legendas da abertura. [Tradução espanhola de ZARF](https://github.com/MODZARF/Parche-textos-en-espanol-DJFFNY-Compatible-con-Xbox-360)

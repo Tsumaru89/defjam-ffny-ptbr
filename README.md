@@ -6,6 +6,12 @@ Tradução de fãs para **Def Jam Recompiled no Windows**. O pacote traduz menus
 
 Na aba [Releases](../../releases), baixe **`DefJam_PTBR_v2.2.1.zip`** entre os arquivos da versão `v2.2.1`.
 
+## Sobre os testes
+
+A tradução foi testada em partes do jogo. Ainda não joguei todas as rotas da história nem conferi todos os diálogos. Por isso, algumas falas podem estar sem legenda, e ainda pode haver erros de tradução ou problemas de formatação.
+
+Se encontrar algum problema, abra uma **Issue** aqui no GitHub e diga em qual luta, cena ou menu aconteceu. Se puder, mande uma captura de tela.
+
 ## Instalação
 
 Você precisa do Def Jam Recompiled instalado e da sua própria cópia do jogo.
